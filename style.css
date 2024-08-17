@@ -1,0 +1,454 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.header-img img{
+    width: 100%;
+    height: 1000px;
+
+}
+.header-nav-logo{
+    width: 10%;
+    margin-top: -955px;
+    color: white;
+    margin-left: 50px;
+    
+   
+}
+.header-nav-center{
+    width: 483px;
+    padding-left: 489px;
+    height: 118px;
+    margin-top: -53px;
+    font-size: 20px;
+    display: flex;
+    
+}
+.header-nav-center p{
+   
+   padding: 10px;
+}
+.header{
+    width: 100%;
+    
+}
+.emplom-right{
+    display: flex;
+    width: 100%;
+    height: 29px;
+    margin: 10px;
+    margin-left: 390px;
+    margin-top: 28px;
+}
+.emplom-right svg{
+    padding-left: 10px;
+}
+.model3 h1{
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    margin-left: 639px;
+    margin-top: -29px;
+}
+.model3 p{
+    color: white;
+    font-size: 34px;
+    width: 600px;
+    margin-left: 453px;
+    margin-top: -36px;
+
+}
+.model3 hr{
+    width: 600px;
+
+}
+.p1{
+    font-size: 20px;
+    margin-left: 670px;
+    margin-top: -32px;
+    color: white;
+}
+.button{
+    color: white;
+    display: flex;
+    width: 491px;
+    height: 48px;
+    margin-left: 545px;
+    margin-top: 435px;
+}
+.button p{
+    width: 248px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    background-color: #3e6ae1;
+    padding-top: 16px;
+    border-radius: 5px;
+    margin-right: 29px;
+}
+.section-1{
+    width: 100%;
+    height: 400px;
+}
+.section-1-img img{
+    width: 100%;
+    height: 662px;
+    margin-top: 54px;
+}
+.modely h1{
+    margin-top: -610px;
+    font-size: 57px;
+    margin-left: 609px;
+    color: white;
+}
+.modely h2{
+    font-size: 27px;
+    margin-left: 483px;
+    margin-top: -43px;
+    color: white;
+}
+.modely p{
+    margin-left: 632px;
+    font-size: 21px;
+    margin-top: -18px;
+    color: white;
+}
+.button1{
+    color: white;
+    display: flex;
+    width: 491px;
+    height: 48px;
+    margin-left: 545px;
+    margin-top: 289px;
+}
+.button1 p{
+    width: 248px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    background-color: #3e6ae1;
+    padding-top: 16px;
+    border-radius: 5px;
+    margin-right: 29px;
+
+}
+
+
+
+.section-2-img img{
+    width: 100%;
+    height: 693px;
+    margin-top: 220px;
+}
+.modelx{
+    margin-top: -651px;
+}
+.modelx h1{
+    font-size: 61px;
+    margin-left: 610px;
+    margin-top: 10px;
+    color: white;
+}
+.modelx h2{
+    margin-left: 630px;
+    margin-top: -38px;
+    color: white;
+    font-size: 30px;
+}
+.modelx h3{
+    margin-left: 575px;
+    font-size: 22px;
+    color: white;
+    margin-top: -12px;
+}
+.button2{
+    color: white;
+    display: flex;
+    width: 491px;
+    height: 48px;
+    margin-left: 545px;
+    margin-top: 289px;
+}
+.button2 p{
+    width: 248px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    background-color: #3e6ae1;
+    padding-top: 16px;
+    border-radius: 5px;
+    margin-right: 29px;
+
+}
+
+
+.section-3-img img{
+    width: 100%;
+    height: 693px;
+    margin-top: 65px;
+}
+.models{
+    margin-top: -651px;
+}
+.models h1{
+    font-size: 61px;
+    margin-left: 650px;
+    margin-top: 10px;
+    color: white;
+}
+.models h2{
+    margin-left: 660px;
+    margin-top: -52px;
+    color: white;
+    font-size: 30px;
+}
+.models h3{
+    margin-left: 604px;
+    font-size: 22px;
+    color: white;
+    margin-top: -23px;
+}
+.button3{
+    color: white;
+    display: flex;
+    width: 491px;
+    height: 48px;
+    margin-left: 600px;
+    margin-top: 289px;
+}
+.button3 p{
+    width: 248px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    background-color: #3e6ae1;
+    padding-top: 16px;
+    border-radius: 5px;
+    margin-right: 29px;
+
+}
+
+
+.section-4-img img{
+    width: 100%;
+    height: 693px;
+    margin-top: 65px;
+}
+.section-4-img svg{
+    width: 10px;
+    height: 100px;
+}
+.button4{
+    color: white;
+    display: flex;
+    width: 539px;
+    height: 48px;
+    margin-left: 512px;
+    margin-top: -125px;
+}
+.button4 p{
+    width: 248px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    background-color: #171a20;
+    padding-top: 16px;
+    border-radius: 0px;
+    margin-right: 29px;
+
+}
+
+
+
+
+
+.section-5-img img{
+    width: 100%;
+    height: 693px;
+    margin-top: 70px;
+}
+.solarpanel{
+    margin-top: -651px;
+}
+.solarpanel h1{
+    font-size: 61px;
+    margin-left: 610px;
+    margin-top: 10px;
+    color: white;
+}
+.solarpanel h2{
+    margin-left: 575px;
+    margin-top: -53px;
+    color: white;
+    font-size: 30px;
+}
+solarpanel h3{
+    margin-left: 575px;
+    font-size: 22px;
+    color: white;
+    margin-top: -12px;
+}
+.button5{
+    color: white;
+    display: flex;
+    width: 555px;
+    height: 48px;
+    margin-left: 545px;
+    margin-top: 394px;
+}
+.button5 p{
+    width: 248px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    background-color: #3e6ae1;
+    padding-top: 16px;
+    border-radius: 5px;
+    margin-right: 29px;
+
+}
+
+
+
+
+.section-6-img img{
+    width: 100%;
+    height: 693px;
+    margin-top: 70px;
+}
+.solarroof{
+    margin-top: -651px;
+}
+.solarroof h1{
+    font-size: 61px;
+    margin-left: 610px;
+    margin-top: 10px;
+    color: white;
+}
+.solarroof h2{
+    margin-left: 498px;
+    margin-top: -53px;
+    color: white;
+    font-size: 30px;
+}
+.button6{
+    color: white;
+    display: flex;
+    width: 555px;
+    height: 48px;
+    margin-left: 545px;
+    margin-top: 330px;
+}
+.button6 p{
+    width: 248px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    background-color: #3e6ae1;
+    padding-top: 16px;
+    border-radius: 5px;
+    margin-right: 29px;
+
+}
+
+
+
+
+.section-7-img img{
+    width: 100%;
+    height: 575px;
+    margin-top: 70px;
+}
+.powerwall{
+    margin-top: -451px;
+}
+.powerwall h1{
+    font-size: 61px;
+    margin-left: 610px;
+    margin-top: 10px;
+    color: white;
+}
+.button7{
+    color: white;
+    display: flex;
+    width: 555px;
+    height: 48px;
+    margin-left: 486px;
+    margin-top: 225px;
+}
+.button7 p{
+    width: 248px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    background-color: #3e6ae1;
+    padding-top: 16px;
+    border-radius: 5px;
+    margin-right: 29px;
+
+}
+
+
+
+.section-8-img img{
+    width: 100%;
+    height: 575px;
+    margin-top: 70px;
+}
+.accessories{
+    margin-top: -500px;
+}
+.accessories h1{
+    font-size: 61px;
+    margin-left: 610px;
+    margin-top: 10px;
+    color: white;
+}
+.button8{
+    color: white;
+    display: flex;
+    width: 555px;
+    height: 48px;
+    margin-left: 628px;
+    margin-top: 309px;
+
+}
+.button8 p{
+    width: 248px;
+    height: 37px;
+    display: flex;
+    justify-content: center;
+    background-color: #3e6ae1;
+    padding-top: 16px;
+    border-radius: 5px;
+    margin-right: 29px;
+
+}
+
+
+.footer{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.footer-p{
+    padding-top: 100px;
+}
+.p p{
+    width: 569px;
+    color: white;
+    
+    margin-left: 457px;
+    font-size: 12px;
+}
+.footer-last{
+    display: flex;
+    color: white;
+    margin-left: 383px;
+    margin-top: 77px;
+}
+.footer-last p{
+    padding: 10px;
+}
+
